@@ -2,3 +2,5 @@ migrations/
 .sonarlint/
 .pylintrc
 .idea/
+__pycache__/
+*.pyc
