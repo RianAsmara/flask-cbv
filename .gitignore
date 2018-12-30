@@ -1,0 +1,4 @@
+migrations/
+.sonarlint/
+.pylintrc
+.idea/
