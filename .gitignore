@@ -4,3 +4,5 @@ migrations/
 .idea/
 __pycache__/
 *.pyc
+tools/run.sh
+tools/migrate.sh
